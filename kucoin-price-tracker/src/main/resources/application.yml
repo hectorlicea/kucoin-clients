@@ -1,0 +1,4 @@
+server:
+  port: 8080
+kucoin:
+  url: https://openapi-v2.kucoin.com
